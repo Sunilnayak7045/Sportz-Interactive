@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sportz Interactive</string>
+    <string name="oponent_1">Oponent1</string>
+    <string name="oponent_2">Oponent2</string>
+    <string name="match_status">Match Status</string>
+    <string name="vs">Vs</string>
+    <string name="oponent1_teamname">Teamname1</string>
+    <string name="oponent2_teamname">Teamname2</string>
+    <string name="playersname">Players Name</string>
+</resources>
