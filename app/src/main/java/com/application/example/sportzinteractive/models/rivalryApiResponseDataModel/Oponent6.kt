@@ -10,6 +10,6 @@ data class Oponent6 (
 
   @SerializedName("Name_Full"  ) var NameFull  : String?  = null,
   @SerializedName("Name_Short" ) var NameShort : String?  = null,
-  @SerializedName("Players"    ) var Players   : Players? = Players()
+  @SerializedName("Players"    ) var Players1   : Players1? = Players1()
 
 ) : Parcelable

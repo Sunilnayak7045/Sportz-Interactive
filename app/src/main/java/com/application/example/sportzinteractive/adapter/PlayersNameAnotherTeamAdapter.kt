@@ -13,11 +13,11 @@ import com.application.example.sportzinteractive.R
 import com.application.example.sportzinteractive.models.rivalryApiResponseDataModel.*
 import com.application.example.sportzinteractive.utils.Constants.Companion.numberOfPlayer
 
-class PlayersNameAdapter(
+class PlayersNameAnotherTeamAdapter(
     private val context : Context,
     private val mOponentList1: MutableList<String>,
     private val mOponentList2: MutableList<String> ) :
-    RecyclerView.Adapter<PlayersNameAdapter.ViewHolder>() {
+    RecyclerView.Adapter<PlayersNameAnotherTeamAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val view = LayoutInflater.from(parent.context)

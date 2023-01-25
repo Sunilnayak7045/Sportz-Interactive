@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/SportzInteractive/app/src/main/res/drawable/outer_box_shade.xml" value="0.1165" />
         <entry key="..\:/Users/user/AndroidStudioProjects/SportzInteractive/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/user/AndroidStudioProjects/SportzInteractive/app/src/main/res/layout/activity_teams.xml" value="0.17314814814814813" />
         <entry key="..\:/Users/user/AndroidStudioProjects/SportzInteractive/app/src/main/res/layout/activity_teams_details.xml" value="0.1921875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/SportzInteractive/app/src/main/res/layout/filter_dialog.xml" value="0.19114583333333332" />
         <entry key="..\:/Users/user/AndroidStudioProjects/SportzInteractive/app/src/main/res/layout/item_team_player_name.xml" value="0.1921875" />
         <entry key="..\:/Users/user/AndroidStudioProjects/SportzInteractive/app/src/main/res/layout/rivalry_screen.xml" value="0.1921875" />
       </map>
